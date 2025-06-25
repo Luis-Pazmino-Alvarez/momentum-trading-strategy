@@ -1,11 +1,11 @@
-# 📈 Momentum vs. Buy-and-Hold: Data-Driven Investment Strategy with Python & MPT
+# Momentum vs. Buy-and-Hold: Data-Driven Investment Strategy with Python & MPT
 
-### 👨‍💼 Author: Luis Pazmiño  
+### Author: Luis Pazmiño  
 *Finance & Data Strategy Consultant | Python for Risk & Investment Modeling | Based in New York, USA*
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 This project showcases a comparative study of two investment strategies using real S&P 500 data:  
 - **Momentum Trading Strategy (8/21-day moving average crossover)**  
@@ -15,7 +15,7 @@ My goal was to simulate real-world portfolio decisions using Python, evaluate ou
 
 ---
 
-## 🎯 Key Objectives
+## Key Objectives
 
 - Apply the 8/21-day **momentum trading** strategy to 30 real stocks across 3 sectors:  
   `Technology`, `Real Estate`, and `Utilities`
@@ -28,7 +28,7 @@ My goal was to simulate real-world portfolio decisions using Python, evaluate ou
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - **Python** (pandas, numpy, matplotlib, seaborn)
 - **Google Colab**
@@ -37,7 +37,7 @@ My goal was to simulate real-world portfolio decisions using Python, evaluate ou
 
 ---
 
-## 📈 Highlights
+## Highlights
 
 - Retrieved and cleaned **5 years of daily stock data** programmatically.
 - Built **modular, reusable Python functions** for trading simulation and optimization.
@@ -49,7 +49,7 @@ My goal was to simulate real-world portfolio decisions using Python, evaluate ou
 
 ---
 
-## 💻 Notebook Files
+## Notebook Files
 
 - [`MomentumTrading.ipynb`](./MomentumTrading.ipynb): Core analysis notebook  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Luis-Pazmino-Alvarez/momentum-trading-strategy/blob/main/MomentumTrading.ipynb)
@@ -58,18 +58,18 @@ My goal was to simulate real-world portfolio decisions using Python, evaluate ou
 
 ---
 
-## 📊 Visual Outputs
+## Visual Outputs
 
 - Momentum strategy plots per sector
 - Efficient frontier plot
 - Allocation variation vs. risk level
 - Portfolio performance comparison across strategies (2022)
 
-> (> 📊 Visual outputs (momentum indicators, stock performance plots, optimization results) are rendered directly within the Colab notebook. An `images/` folder may be added in future for static exports.)
+> (> Visual outputs (momentum indicators, stock performance plots, optimization results) are rendered directly within the Colab notebook. An `images/` folder may be added in future for static exports.)
 
 ---
 
-## 🧑‍💼 Skills Demonstrated
+## Skills Demonstrated
 
 - Financial modeling with real market data
 - Convex optimization for investment strategy
@@ -79,7 +79,7 @@ My goal was to simulate real-world portfolio decisions using Python, evaluate ou
 
 ---
 
-## 📚 Sources & References
+## Sources & References
 
 - [Modern Portfolio Theory - Wikipedia](https://en.wikipedia.org/wiki/Modern_portfolio_theory)  
 - [Momentum Trading Strategy - Investopedia](https://www.investopedia.com/terms/m/momentum_trading.asp)  
