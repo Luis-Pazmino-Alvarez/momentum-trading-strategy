@@ -54,7 +54,7 @@ My goal was to simulate real-world portfolio decisions using Python, evaluate ou
 - [`MomentumTrading.ipynb`](./MomentumTrading.ipynb): Core analysis notebook  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Luis-Pazmino-Alvarez/momentum-trading-strategy/blob/main/MomentumTrading.ipynb)
 
-- `requirements.txt` (to be added): Python package dependencies
+- [`requirements.txt`](./requirements.txt): Python package dependencies
 
 ---
 
